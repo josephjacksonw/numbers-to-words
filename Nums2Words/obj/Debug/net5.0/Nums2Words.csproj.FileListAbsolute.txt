@@ -1,0 +1,12 @@
+C:\Users\shabr\Desktop\Nums2Words\Nums2Words\bin\Debug\net5.0\Nums2Words.deps.json
+C:\Users\shabr\Desktop\Nums2Words\Nums2Words\bin\Debug\net5.0\Nums2Words.dll
+C:\Users\shabr\Desktop\Nums2Words\Nums2Words\bin\Debug\net5.0\ref\Nums2Words.dll
+C:\Users\shabr\Desktop\Nums2Words\Nums2Words\bin\Debug\net5.0\Nums2Words.pdb
+C:\Users\shabr\Desktop\Nums2Words\Nums2Words\obj\Debug\net5.0\Nums2Words.csproj.AssemblyReference.cache
+C:\Users\shabr\Desktop\Nums2Words\Nums2Words\obj\Debug\net5.0\Nums2Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shabr\Desktop\Nums2Words\Nums2Words\obj\Debug\net5.0\Nums2Words.AssemblyInfoInputs.cache
+C:\Users\shabr\Desktop\Nums2Words\Nums2Words\obj\Debug\net5.0\Nums2Words.AssemblyInfo.cs
+C:\Users\shabr\Desktop\Nums2Words\Nums2Words\obj\Debug\net5.0\Nums2Words.csproj.CoreCompileInputs.cache
+C:\Users\shabr\Desktop\Nums2Words\Nums2Words\obj\Debug\net5.0\Nums2Words.dll
+C:\Users\shabr\Desktop\Nums2Words\Nums2Words\obj\Debug\net5.0\ref\Nums2Words.dll
+C:\Users\shabr\Desktop\Nums2Words\Nums2Words\obj\Debug\net5.0\Nums2Words.pdb
